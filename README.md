@@ -1,7 +1,7 @@
-<h3>배우는 것이 즐거운 개발자</h3>
-  
+<h3> 새로운 것에 관심이 많고 배우는 것을 즐기는 개발자 👨🏻‍💻 </h3>
+
 #
-<h4>기술</h4>
+<h4>🧳 Skills </h4>
 <p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
